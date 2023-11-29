@@ -12,7 +12,7 @@
 ### 🛠️ What I'm Currently Working On:
 
 - 🌐 Building a budget estimation web app to visualize and calculate Architectural expenses.
-- 🤖 Developing a data analysis web app with machine learning for architectural design insights.
+- 🤖 Developing a personal AI assistant that will control all my IOT devices that I built at home and hosted in my personal server hosted on a mini PC at my home 😎.
 - 📺 Creating an AI-powered YouTube channel growth tool with data visualization.
 
 ### 🌱 What I'm Currently Learning:

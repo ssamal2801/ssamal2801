@@ -12,7 +12,7 @@
 ### 🛠️ What I'm Currently Working On:
 
 - 🌐 Building a budget estimation web app to visualize and calculate Architectural expenses.
-- 🤖 Developing a personal AI assistant that will control all my IOT devices that I built at home and hosted in my personal server hosted on a mini PC at my home 😎.
+- 🤖 Developing a personal AI assistant that will control all my IOT devices that I built handcrafted and hosted in my personal server on a mini PC at my home 😎.
 - 📺 Creating an AI-powered YouTube channel growth tool with data visualization.
 
 ### 🌱 What I'm Currently Learning:
@@ -26,7 +26,8 @@
   
 ### 💬 Ask Me About:
 
-- 💻 Web development, especially .NET, React.js, Three.js, WebGL, and 3D modeling in web apps.
+- 💻 Web development, especially .NET, React.js, Three.js, WebGL, and 3D modelling in web apps.
+- 🤖 IOT and home servers.
 - 🏢 My experiences in the architecture industry and its unique challenges and opportunities.
 - 🚀 My passion for learning new technologies and problem-solving.
 </p>
